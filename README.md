@@ -89,3 +89,22 @@ Editar
 ```bash
 git clone https://github.com/seu-usuario/seu-repo.git
 cd GestaoConsultas
+
+🛠 Restaure e compile
+```bash
+dotnet build
+▶️ Execute a API
+```bash
+dotnet run --project MedicalApi
+```
+
+🔍 Acessar o Swagger
+Abra no navegador:
+
+```bash
+https://localhost:7002/index.html
+```
+
+👩‍💻 Desenvolvido por
+Gabriela Moguinho Gonçalves
+RM: 556143
