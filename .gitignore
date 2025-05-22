@@ -1,0 +1,22 @@
+# Pastas do Visual Studio e temporárias
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Backup e cache
+*.log
+*.db
+*.pid
+
+# Dados sensíveis
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
